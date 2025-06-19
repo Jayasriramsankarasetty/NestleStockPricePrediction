@@ -68,11 +68,11 @@ We analyzed:
 
 ## 📈 Results
 
-| Metric     | Value          |
-|------------|----------------|
-| R² Score   | *[add your value]* |
-| MAE        | *[add your value]* |
-| RMSE       | *[add your value]* |
+| Metric     | Value             |
+|------------|-------------------|
+| R² Score   | 0.9998764543106008|
+| MAE        | 34.34973909906662 |
+| RMSE       | 55.068114296008616|
 
 > The model performs reasonably well and can serve as a baseline for future improvements using more advanced models like XGBoost or LSTM.
 
