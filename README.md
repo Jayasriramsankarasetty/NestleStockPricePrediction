@@ -6,7 +6,7 @@ Predicting stock prices is one of the most popular and challenging problems in t
 
 ## 🚀 Project Overview
 
-- **Goal**: Predict the future close price of the stock using machine learning.
+- **Goal**: Predict the future close price of the stock using Machine Learning.
 - **Model Used**: Linear Regression
 - **Dataset**: Historical stock data (`nestle.csv`)
 - **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
